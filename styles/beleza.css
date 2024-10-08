@@ -1,0 +1,154 @@
+@import url("https://use.typekit.net/wzh5zgv.css");
+
+body {
+    background-color: #202020;
+}
+
+
+
+h1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 1.6%;
+    margin: -0.4%;
+    font-size: 50px;
+    font-family:"ofelia-display",sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+h2 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 30px;
+    font-family:"ofelia-display",sans-serif;
+    font-weight: 400;
+}
+
+.comoJogar p {
+    color: #FFFFFF;    
+    text-align: justify;
+    font-size: 20px;
+    font-family:"ofelia-display",sans-serif;
+    font-weight: 400;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+
+
+
+.bar {
+    background-color: #101010;
+    padding: 0.8%;
+    margin: -0.4%;
+    width: 99.2%;
+    text-align: center;
+    position: sticky;
+    top: 0;
+}
+
+.barLink {
+    color: #FFFFFF;
+    background-color: #101010;
+    padding: 0.80%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-family:"ofelia-display",sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    text-decoration: none;
+}
+
+.barLink:hover {
+    background-color: #303030;
+    transition-duration: 0.3s;
+}
+
+.barLink:active {
+    background-color: #3F3F3F;
+    transition-duration: 0s;
+}
+
+
+
+
+.creator {
+    display: flex;
+    color: #FFFFFF;
+    font-family:"ofelia-display",sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    text-align:justify;
+    width: 98%;
+}
+
+.creator1 {
+    flex: 1;
+}
+
+.creator2 {
+    flex: 1;
+}
+
+.creator ul {
+    font-weight: 400;
+}
+
+
+
+
+.home {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #101010;
+    padding: 2%;
+}
+
+.home h1 {
+    color: #FFFFFF;
+    font-family:"ofelia-display",sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    background-color: #000000;
+    padding: 4%;
+    margin-top: -0.5%;
+}
+
+.home p {
+    color: #FFFFFF;
+    font-family:"ofelia-display",sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: justify;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+
+
+
+.titles {
+    color: #FFFFFF;
+    font-family:"ofelia-display",sans-serif;
+    margin-left: 2%;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+
+
+.controls {
+    display: flex;
+    text-align: center;
+}
+
+.controls video {
+    border: 5px solid #000000;
+    border-radius: 10px;
+}
